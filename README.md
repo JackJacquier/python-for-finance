@@ -13,7 +13,7 @@ Each week will focus on one particular topic with
   - Session 1: Fundamentals of Python
   - Session 2: Mathematical Finance in Python
   - Session 3: Importing data and visualisation tools
-  - Session 4: Introuction to Pandas for data
+  - Session 4: Introduction to Pandas for data
   - Session 5: Functional Programming
   - Session 6: Object-Oriented Programming
   - Session 7: Introduction to Cython
