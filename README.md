@@ -17,3 +17,5 @@ Each week will focus on one particular topic with
   - Session 5: Functional Programming
   - Session 6: Object-Oriented Programming
   - Session 7: Introduction to Cython
+  - Session 8: Multi-processing and sympy
+  - Session 9: xlwings; dealing with large datasets
