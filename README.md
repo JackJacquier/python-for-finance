@@ -7,9 +7,9 @@ Each week will focus on one particular topic with
  - One full IPython notebook
  - One assignment
  
- This is a non-assessed module, yet compulsory for the students of the MSc in Mathematics and Finance, Imperial College London.
- The live sessions will take place on Thursdays, 5m - 7pm UK time in person in Huxley 144. A link to join the sessions will be posted on the Teams Channel of the module and on Blackboard.
- A preliminary programme of the module will be as follows:
+This is a non-assessed module, compulsory for the students of the MSc in Mathematics and Finance, Imperial College London.
+The sessions will take place on Thursdays, 5m - 7pm UK time, in person in Huxley 144. A link to join the sessions will be posted on the Teams Channel of the module and on Blackboard.
+ The preliminary programme is as follows:
  
   - Session 1: Fundamentals of Python
   - Session 2: Mathematical Finance in Python
