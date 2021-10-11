@@ -1,5 +1,6 @@
 # python-for-finance
 Python for Finance module for Imperial MSc in Mathematics and Finance
+
 Lecturers: Jack Jacquier (a.jacquier@imperial.ac.uk), Aitor Muguruza (aitor.muguruza-gonzalez15@imperial.ac.uk)
 
 Each week will focus on one particular topic with
