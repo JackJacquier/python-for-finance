@@ -8,7 +8,7 @@ Each week will focus on one particular topic with
  - One assignment
  
 This is a non-assessed module, compulsory for the students of the MSc in Mathematics and Finance, Imperial College London.
-The sessions will take place on Fridays, 3m - 5pm UK time, in person in Clore Lecture Theatre. A link to join the sessions will be posted on the Teams Channel of the module and on Blackboard.
+The sessions will take place on Fridays, 3pm - 5pm UK time, in person in Clore Lecture Theatre. A link to join the sessions will be posted on the Teams Channel of the module and on Blackboard.
  The preliminary programme is as follows:
  
   - Session 1: Fundamentals of Python
