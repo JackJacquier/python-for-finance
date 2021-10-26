@@ -13,8 +13,8 @@ The sessions will take place on Fridays, 3pm - 5pm UK time, in person in Clore L
  
   - Session 1: Fundamentals of Python
   - Session 2: Mathematical Finance in Python
-  - Session 3: Object-Oriented Programming
-  - Session 4: Importing data and visualisation tools
+  - Session 3: Importing data and visualisation tools
+  - Session 4: Object-Oriented Programming
   - Session 5: Introduction to Pandas for data
   - Session 6: Functional Programming
   - Session 7: Introduction to Cython
