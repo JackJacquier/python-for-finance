@@ -11,12 +11,11 @@ This is an assessed module (counting for 30% of the "Computing in Finance" modul
 The sessions take place on Thursdays, 11am - 1pm UK time, in person in Huxley Building, Room 130.
  The preliminary programme is as follows:
  
-  - Session 1: Fundamentals of Python
-  - Session 2: Mathematical Finance in Python
-  - Session 3: Importing data and visualisation tools
-  - Session 4: Object-Oriented Programming
-  - Session 5: Introduction to Pandas for data
-  - Session 6: Functional Programming
-  - Session 7: Introduction to Cython
-  - Session 8: Multi-processing and sympy
-  - Session 9: xlwings; dealing with large datasets
+- Session 1	Introduction to Python;	20 Oct,	11am-1pm,	Huxley 130
+- Session 2	Financial Computing;	27 Oct,	11am-1pm,	Huxley H130
+- Session 3	Object-Oriented Programming;	3 Nov,	11am-1pm,	Huxley 130
+- Session 4	Data, Visualisation, Pandas;	17 Nov,	11am-1pm,	Huxley 130
+- Session 5	Cython;	24 Nov,	11am-1pm,	Huxley 130
+- Session 6	Functional Programming;	1 Dec,	11am-1pm,	Huxley 130
+- Session 7	Parallel Computing and sympy;	8 Dec,	11am-1pm,	Huxley 130
+- Session 8	Extra;	15 Dec,	11am-1pm,	Huxley 130
