@@ -1,21 +1,37 @@
 # python-for-finance
 Python for Finance module for Imperial MSc in Mathematics and Finance
 
-Lecturers: Jack Jacquier (a.jacquier@imperial.ac.uk), Aitor Muguruza (aitor.muguruza-gonzalez15@imperial.ac.uk)
+Lecturers: Aitor Muguruza (aitor.muguruza-gonzalez15@imperial.ac.uk), Josh Hope-Collins (joshua.hope-collins13@imperial.ac.uk)
 
 Each week will focus on one particular topic with
  - One full IPython notebook
- - One assignment
+ - One optional assignment
  
 This is an assessed module (counting for 30% of the "Computing in Finance" module), compulsory for the students of the MSc in Mathematics and Finance, Imperial College London.
-The sessions take place on Thursdays, 11am - 1pm UK time, in person in Huxley Building, Room 130.
+The sessions take place on Mondays, 12am - 2pm UK time, in person in Huxley Building, Room 139.
+
+**Note**: In Spring 2023 we will be using **Python 3.10**
+
  The preliminary programme is as follows:
  
-- Session 1	Introduction to Python;	20 Oct,	11am-1pm,	Huxley 130
-- Session 2	Financial Computing;	27 Oct,	11am-1pm,	Huxley H130
-- Session 3	Object-Oriented Programming;	3 Nov,	11am-1pm,	Huxley 130
-- Session 4	Cython;	17 Nov,	11am-1pm,	Huxley 130
-- Session 5	Data, Visualisation, Pandas;	24 Nov,	11am-1pm,	Huxley 130
-- Session 6	Functional Programming;	1 Dec,	11am-1pm,	Huxley 130
-- Session 7	Parallel Computing and sympy;	8 Dec,	11am-1pm,	Huxley 130
-- Session 8	Extra;	15 Dec,	11am-1pm,	Huxley 130
+- Session 1	Introduction to Python;	9 Oct,	12am-2pm,	Huxley 139 
+- Session 2	Numpy and Scipy;	16 Oct,	12am-2pm,	Huxley 139
+- Session 3	Object-Oriented Programming;	1 Nov,	9am-11am,	 RODH 422
+- Session 4	Cython;	6 Nov,	12am-2pm,	Huxley 139
+- Session 5	Data/Pandas/Plotting tools/Functional Programming part 1;	13 Nov,	12am-2pm,	Huxley 139
+- Session 6	NO CLASS;	20 Nov,	12am-2pm,	Huxley 139
+- Session 7 Data/Pandas/Plotting tools/Functional Programming part 2;   27 Nov,	12am-2pm,	Huxley 139
+- Session 8	Parallel Computing and sympy;	4 Dec,	12am-2pm,	Huxley 139
+- Session 8	**Open book EXAM**;	11 Dec,	12am-2pm,	Huxley 139
+
+&rarr; The Examinable topics will be:\
+-Into to Python\
+-Numpy and Scipy \
+-Object Oriented Programming\
+-Data and Pandas\
+-Functional Programming
+
+&rarr; Non examinable topics:\
+-Cython \
+-Plotting tools \
+-Parallel Computing and Sympy. 
