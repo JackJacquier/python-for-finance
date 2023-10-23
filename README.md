@@ -16,11 +16,11 @@ The sessions take place on Mondays, 12am - 2pm UK time, in person in Huxley Buil
  
 - Session 1	Introduction to Python;	9 Oct,	12am-2pm,	Huxley 139 
 - Session 2	Numpy and Scipy;	16 Oct,	12am-2pm,	Huxley 139
-- Session 3 Data/Pandas/Plotting tools/Functional Programming part 1;	23 Oct,	12am-2pm,	Huxley 139
-- Session 4	Object-Oriented Programming;	1 Nov,	9am-11am,	 RODH 422
-- Session 5	Cython;	6 Nov,	12am-2pm,	Huxley 139
-- Session 6	Data/Pandas/Plotting tools/Functional Programming part 2;	13 Nov,	12am-2pm,	Huxley 139
-- Session 7	Data/Pandas/Plotting tools/Functional Programming part 3;	20 Nov,	12am-2pm,	Huxley 139
+- Session 3 Object-Oriented Programming;	23 Oct,	12am-2pm,	Huxley 139
+- Session 4	Cython;	**1 Nov,	9am-11am,	 Huxley 140**
+- Session 5	Data/Pandas/Plotting tools part 1;	6 Nov,	12am-2pm,	Huxley 139
+- Session 6	Data/Pandas/Plotting tools part 2;	13 Nov,	12am-2pm,	Huxley 139
+- Session 7	Functional Programming;	20 Nov,	12am-2pm,	Huxley 139
 - Session 8 NO CLASS;   27 Nov,	12am-2pm,	Huxley 139
 - Session 9	Parallel Computing and sympy;	4 Dec,	12am-2pm,	Huxley 139
 - Session 10	**Open book EXAM**;	11 Dec,	12am-2pm,	Huxley 139
