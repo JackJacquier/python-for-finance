@@ -1,7 +1,7 @@
 # python-for-finance
 Python for Finance module for Imperial MSc in Mathematics and Finance 2024
 
-Lecturers: Aitor Muguruza (aitor.muguruza-gonzalez15@imperial.ac.uk), Antoine (Jack) Jacquier (a.jacquier@imperial.ac.uk)
+Lecturers: Aitor Muguruza (aitor.muguruza@imperial.ac.uk), Antoine (Jack) Jacquier (a.jacquier@imperial.ac.uk)
 
 Each week will focus on one particular topic with
  - One full IPython notebook
