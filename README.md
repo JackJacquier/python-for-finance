@@ -17,9 +17,9 @@ The sessions take place on Tuesdays, 2pm - 4pm UK time, in person in Huxley Buil
 - Session 1	Introduction to Python;	8 Oct,	 2pm - 4pm,	Huxley 139 
 - Session 2	Numpy;	15 Oct,	 2pm - 4pm,	Huxley 139
 - Session 3 Financial Computing;	22 Oct,	 2pm - 4pm,	Huxley 139
-- Session 4 Object-Oriented Programming;	29 Oct,	2pm - 4pm,	Huxley 139
-- Session 5	Data/Pandas/Plotting tools part 1;	5 Nov,	2pm - 4pm,	Huxley 139
-- Session 6	Data/Pandas/Plotting tools part 2;	12 Nov,	2pm - 4pm,	Huxley 139
+- Session 4 Data/Pandas/Plotting tools part 1;	29 Oct,	2pm - 4pm,	Huxley 139
+- Session 5	Data/Pandas/Plotting tools part 2;	5 Nov,	2pm - 4pm,	Huxley 139
+- Session 6 Object-Oriented Programming;	12 Nov,	2pm - 4pm,	Huxley 139
 - Session 7	Functional Programming;	19 Nov,	2pm - 4pm,	Huxley 139
 - Session 8 Cython;   26 Nov,	2pm - 4pm,	Huxley 139
 - Session 9	Parallel Computing and sympy;	3 Dec,	2pm - 4pm,	Huxley 139
